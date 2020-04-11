@@ -1,0 +1,13 @@
+.signInBody {
+  background: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, 0.7))), url("https://images.pexels.com/photos/210705/pexels-photo-210705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") no-repeat center fixed;
+  background: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.7)), url("https://images.pexels.com/photos/210705/pexels-photo-210705.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") no-repeat center fixed;
+  background-size: cover;
+  height: 100vh;
+}
+
+.signin {
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  border-radius: 5px;
+}
+/*# sourceMappingURL=signIn.css.map */
